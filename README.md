@@ -21,6 +21,7 @@ The goal is to support decision-making by providing a **data-driven, probabilist
 
 - **5,000 Monte Carlo trials** simulating multiple financial years
 - **Uniform Distribution, Truncated Normal Distribution, and Triangular distributions** applied to key input assumptions
+- The trial and calculation run without add-ons - the performance utilized native excelt tools
 - Scenario logic sheets showing lowest, average, and highest outcomes
 - Visualization-ready summaries to inform investment decisions
 
